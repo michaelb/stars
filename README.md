@@ -1,7 +1,7 @@
 # awesome stars
 
 A list of awesome repositories I've starred. Want your own? Try: [stargazer](https://github.com/rverst/stargazer)  
-Total starred repositories: `416`
+Total starred repositories: `415`
 ## Contents
 
   - [Awk](#awk)
@@ -52,46 +52,46 @@ Total starred repositories: `416`
 
 ## C
 
-  - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator \[*GNU GPLv3*\] (⭐️4170)
+  - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator \[*GNU GPLv3*\] (⭐️4172)
   - [endrazine/wcc](https://github.com/endrazine/wcc) - The Witchcraft Compiler Collection (⭐️1973)
-  - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device \[*Apache License 2.0*\] (⭐️131747)
-  - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer \[*GNU GPLv2*\] (⭐️7622)
+  - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device \[*Apache License 2.0*\] (⭐️131789)
+  - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer \[*GNU GPLv2*\] (⭐️7624)
   - [IO500/io500](https://github.com/IO500/io500) - IO500 Storage Benchmark source code \[*MIT License*\] (⭐️126)
-  - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams. \[*GNU GPLv3*\] (⭐️76847)
-  - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source (⭐️16402)
+  - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams. \[*GNU GPLv3*\] (⭐️76858)
+  - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source (⭐️16403)
   - [ocerman/zenmonitor](https://github.com/ocerman/zenmonitor) - Zen monitor is monitoring software for AMD Zen-based CPUs. \[*MIT License*\] (⭐️259)
   - [otatebe/chfs](https://github.com/otatebe/chfs) - CHFS parallel and distributed file system for node-local persistent memory (⭐️69)
   - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB \[*GNU GPLv2*\] (⭐️1219)
   - [slippedandmissed/XLSL](https://github.com/slippedandmissed/XLSL) - A rendering engine for Microsoft Excel (⭐️50)
-  - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (⭐️208369)
-  - [tuxedocomputers/tuxedo-keyboard](https://github.com/tuxedocomputers/tuxedo-keyboard) - This repository will no longer get any updates as the code here is now part of tuxedo-drivers https://gitlab.com/tuxedocomputers/development/packages/tuxedo-drivers. \[*GNU GPLv3*\] (⭐️304) *Archived!*
+  - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (⭐️208503)
+  - [tuxedocomputers/tuxedo-keyboard](https://github.com/tuxedocomputers/tuxedo-keyboard) - This repository will no longer get any updates as the code here is now part of tuxedo-drivers https://gitlab.com/tuxedocomputers/development/packages/tuxedo-drivers. \[*GNU GPLv3*\] (⭐️305) *Archived!*
   - [vanhoefm/fragattacks](https://github.com/vanhoefm/fragattacks) -  (⭐️1281)
-  - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image. \[*MIT License*\] (⭐️16819)
+  - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image. \[*MIT License*\] (⭐️16821)
 
 ## C#
 
-  - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud! \[*MIT License*\] (⭐️13662)
-  - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music. \[*GNU GPLv3*\] (⭐️4746)
-  - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users. \[*GNU GPLv3*\] (⭐️12504)
+  - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud! \[*MIT License*\] (⭐️13664)
+  - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music. \[*GNU GPLv3*\] (⭐️4749)
+  - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users. \[*GNU GPLv3*\] (⭐️12511)
   - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝 (⭐️1496)
 
 ## C++
 
   - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency \[*MIT License*\] (⭐️15111)
   - [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol) - Trajectories finder \[*MIT License*\] (⭐️1391)
-  - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer \[*GNU GPLv3*\] (⭐️3992)
-  - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application \[*GNU GPLv3*\] (⭐️5207)
-  - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research (⭐️17722)
-  - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (⭐️34188)
+  - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer \[*GNU GPLv3*\] (⭐️3991)
+  - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application \[*GNU GPLv3*\] (⭐️5208)
+  - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research (⭐️17725)
+  - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (⭐️34211)
   - [rohit-px2/nvui](https://github.com/rohit-px2/nvui) - A modern frontend for Neovim. \[*MIT License*\] (⭐️1741)
-  - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone \[*Apache License 2.0*\] (⭐️192623)
-  - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components (⭐️28856)
+  - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone \[*Apache License 2.0*\] (⭐️192633)
+  - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components (⭐️28873)
   - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise \[*GNU GPLv3*\] (⭐️6116)
-  - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (⭐️16179)
+  - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (⭐️16183)
 
 ## CMake
 
-  - [64/cmake-raytracer](https://github.com/64/cmake-raytracer) - Ray tracer written in pure CMake \[*MIT License*\] (⭐️887)
+  - [64/cmake-raytracer](https://github.com/64/cmake-raytracer) - Ray tracer written in pure CMake \[*MIT License*\] (⭐️888)
 
 ## CSS
 
@@ -100,11 +100,11 @@ Total starred repositories: `416`
 ## Clojure
 
   - [chr15m/slingcode](https://github.com/chr15m/slingcode) - personal computing platform \[*MIT License*\] (⭐️424)
-  - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures \[*SIL Open Font License 1.1*\] (⭐️80645)
+  - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures \[*SIL Open Font License 1.1*\] (⭐️80650)
 
 ## Cuda
 
-  - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust \[*Apache License 2.0*\] (⭐️11164)
+  - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust \[*Apache License 2.0*\] (⭐️11163)
 
 ## D
 
@@ -112,12 +112,12 @@ Total starred repositories: `416`
 
 ## Dart
 
-  - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple. \[*MIT License*\] (⭐️4970)
-  - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app! \[*GNU GPLv3*\] (⭐️3458)
+  - [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple. \[*MIT License*\] (⭐️4974)
+  - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app! \[*GNU GPLv3*\] (⭐️3462)
 
 ## Dockerfile
 
-  - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. \[*Apache License 2.0*\] (⭐️64406)
+  - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. \[*Apache License 2.0*\] (⭐️64411)
 
 ## Fennel
 
@@ -126,21 +126,21 @@ Total starred repositories: `416`
 
 ## Go
 
-  - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim. \[*MIT License*\] (⭐️2569)
+  - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim. \[*MIT License*\] (⭐️2570)
   - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) -  \[*Apache License 2.0*\] (⭐️1244)
   - [ikkebr/GoBozoCrack](https://github.com/ikkebr/GoBozoCrack) - GoBozoCrack is a depressingly effective and fast MD5 password hash cracker with almost zero CPU/GPU load. \[*MIT License*\] (⭐️3)
   - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc. \[*MIT License*\] (⭐️2754)
-  - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock \[*MIT License*\] (⭐️7068)
+  - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock \[*MIT License*\] (⭐️7069)
   - [manojkarthick/github-upload-asset](https://github.com/manojkarthick/github-upload-asset) - CLI tool to upload an asset to the given GitHub release \[*MIT License*\] (⭐️8) *Archived!*
-  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️67217)
-  - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (⭐️19957)
-  - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux. (⭐️9990)
-  - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨ (⭐️38836)
+  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️67230)
+  - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (⭐️19973)
+  - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux. (⭐️9992)
+  - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨ (⭐️38845)
   - [prasmussen/glot-code-runner](https://github.com/prasmussen/glot-code-runner) - Code runner \[*MIT License*\] (⭐️117) *Archived!*
   - [rverst/stargazer](https://github.com/rverst/stargazer) - Stargazer creates a sorted list of your stared GitHub repositories - your personal awesome-list. \[*MIT License*\] (⭐️51)
   - [rylio/ytdl](https://github.com/rylio/ytdl) - YouTube download library and CLI written in Go \[*MIT License*\] (⭐️834) *Archived!*
-  - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases \[*MIT License*\] (⭐️9105)
-  - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization \[*Mozilla Public License 2.0*\] (⭐️77921)
+  - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases \[*MIT License*\] (⭐️9106)
+  - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization \[*Mozilla Public License 2.0*\] (⭐️77954)
 
 ## HTML
 
@@ -151,12 +151,12 @@ Total starred repositories: `416`
 
 ## Janet
 
-  - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context \[*MIT License*\] (⭐️3031)
+  - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context \[*MIT License*\] (⭐️3032)
 
 ## Java
 
-  - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (⭐️23004)
-  - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages \[*GNU LGPLv2.1*\] (⭐️13788)
+  - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (⭐️23003)
+  - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages \[*GNU LGPLv2.1*\] (⭐️13792)
   - [scijava/scijava-jupyter-kernel](https://github.com/scijava/scijava-jupyter-kernel) - [RETIRED] Try IJava or BeakerX \[*Apache License 2.0*\] (⭐️178) *Archived!*
   - [TheElectronWill/night-config](https://github.com/TheElectronWill/night-config) - Powerful java configuration library for toml, yaml, hocon, json and in-memory configurations. Serialization/deserialization framework. \[*GNU LGPLv3*\] (⭐️264)
 
@@ -166,15 +166,15 @@ Total starred repositories: `416`
   - [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into amazing videos. \[*MIT License*\] (⭐️1837)
   - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences (⭐️3369)
   - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser \[*MIT License*\] (⭐️12134)
-  - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image. (⭐️10149)
-  - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. \[*GNU GPLv3*\] (⭐️26986)
+  - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image. (⭐️10150)
+  - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. \[*GNU GPLv3*\] (⭐️26999)
   - [hashirshoaeb/home](https://github.com/hashirshoaeb/home) - The personal website/portfolio template by Hashir Shoaib. Built using React and Bootstrap. \[*GNU LGPLv3*\] (⭐️1473)
   - [kbrsh/moon](https://github.com/kbrsh/moon) - 🌙 The minimal & fast library for functional user interfaces \[*MIT License*\] (⭐️5972)
-  - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! \[*MIT License*\] (⭐️15708)
+  - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! \[*MIT License*\] (⭐️15712)
   - [nomisaur/setConst](https://github.com/nomisaur/setConst) - Const is super useful for writing better code, but don't you sometimes wish you could reassign it? (⭐️21)
   - [RockstarLang/rockstar](https://github.com/RockstarLang/rockstar) - Home of the Rockstar programming language \[*GNU AGPLv3*\] (⭐️6878)
   - [shirsakm/nightlio](https://github.com/shirsakm/nightlio) - A minimal mood logger and journal. \[*GNU AGPLv3*\] (⭐️156)
-  - [tree-sitter/tree-sitter-rust](https://github.com/tree-sitter/tree-sitter-rust) - Rust grammar for tree-sitter \[*MIT License*\] (⭐️446)
+  - [tree-sitter/tree-sitter-rust](https://github.com/tree-sitter/tree-sitter-rust) - Rust grammar for tree-sitter \[*MIT License*\] (⭐️447)
   - [urbanguacamole/torrent-paradise](https://github.com/urbanguacamole/torrent-paradise) - Decentralized DHT search site for IPFS (⭐️420)
 
 ## Jupyter Notebook
@@ -193,7 +193,7 @@ Total starred repositories: `416`
   - [dundalek/bloat.nvim](https://github.com/dundalek/bloat.nvim) - Neovim plugin to analyze and visualize code size of used plugins to uncover bloat. \[*MIT License*\] (⭐️80)
   - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, writen in Lua. \[*Apache License 2.0*\] (⭐️314)
   - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API. \[*Apache License 2.0*\] (⭐️2008) *Archived!*
-  - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type. \[*Apache License 2.0*\] (⭐️6744)
+  - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type. \[*Apache License 2.0*\] (⭐️6747)
   - [FredeHoey/tardis.nvim](https://github.com/FredeHoey/tardis.nvim) - Timetravel for neovim \[*MIT License*\] (⭐️128)
   - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - nvim plugin to toggle comments on and off \[*MIT License*\] (⭐️42)
   - [jalvesaq/hlterm](https://github.com/jalvesaq/hlterm) - Send code to command line interpreter \[*GNU GPLv2*\] (⭐️221)
@@ -205,56 +205,56 @@ Total starred repositories: `416`
   - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces. \[*GNU GPLv3*\] (⭐️350)
   - [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) - A framework for building Neovim plugins (⭐️449)
   - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim \[*MIT License*\] (⭐️1176) *Archived!*
-  - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua \[*MIT License*\] (⭐️3993)
-  - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim \[*MIT License*\] (⭐️3765)
+  - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua \[*MIT License*\] (⭐️3994)
+  - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim \[*MIT License*\] (⭐️3768)
   - [michaelb/Conky-Minimalism-tweaked](https://github.com/michaelb/Conky-Minimalism-tweaked) - Tweak of Conky-Minimalism to consume less ressources and better fit my needs \[*MIT License*\] (⭐️4)
   - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) - Automatic indentation style detection for Neovim \[*MIT License*\] (⭐️585)
-  - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim \[*MIT License*\] (⭐️535)
+  - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim \[*MIT License*\] (⭐️536)
   - [notomo/vusted](https://github.com/notomo/vusted) - A busted wrapper for testing neovim plugin \[*MIT License*\] (⭐️89)
-  - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. \[*GNU GPLv3*\] (⭐️27530)
+  - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. \[*GNU GPLv3*\] (⭐️27537)
   - [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim) - A async completion framework aims to provide completion to neovim's built in LSP written in Lua \[*Apache License 2.0*\] (⭐️967) *Archived!*
   - [nvim-lua/diagnostic-nvim](https://github.com/nvim-lua/diagnostic-nvim) - A wrapper for neovim built in LSP diagnosis config \[*Apache License 2.0*\] (⭐️216) *Archived!*
-  - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration \[*MIT License*\] (⭐️28405)
+  - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration \[*MIT License*\] (⭐️28406)
   - [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) - Repo to hold a bunch of info & extension callbacks for built-in LSP. Use at your own risk :wink: \[*MIT License*\] (⭐️210) *Archived!*
-  - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice. \[*MIT License*\] (⭐️3313)
-  - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim. \[*MIT License*\] (⭐️2959)
-  - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+. \[*MIT License*\] (⭐️3588)
+  - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice. \[*MIT License*\] (⭐️3314)
+  - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim. \[*MIT License*\] (⭐️2961)
+  - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+. \[*MIT License*\] (⭐️3590)
   - [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim) - A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history. \[*MIT License*\] (⭐️898)
   - [nvim-telescope/telescope-symbols.nvim](https://github.com/nvim-telescope/telescope-symbols.nvim) -  \[*MIT License*\] (⭐️213)
-  - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time. \[*MIT License*\] (⭐️18661)
-  - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua (⭐️8209)
+  - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time. \[*MIT License*\] (⭐️18667)
+  - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua (⭐️8208)
   - [nvim-treesitter/playground](https://github.com/nvim-treesitter/playground) - Treesitter playground integrated into Neovim \[*Apache License 2.0*\] (⭐️927) *Archived!*
   - [nvimdev/galaxyline.nvim](https://github.com/nvimdev/galaxyline.nvim) - neovim statusline plugin written in lua  \[*MIT License*\] (⭐️896)
-  - [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) - improve neovim lsp experience \[*MIT License*\] (⭐️3716)
-  - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - VS Code–style pictograms for Neovim completion items \[*MIT License*\] (⭐️1642)
+  - [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) - improve neovim lsp experience \[*MIT License*\] (⭐️3717)
+  - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - VS Code–style pictograms for Neovim completion items \[*MIT License*\] (⭐️1643)
   - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar \[*MIT License*\] (⭐️999)
   - [polarmutex/contextprint.nvim](https://github.com/polarmutex/contextprint.nvim) - neovim plugin to add context aware print debug statements \[*MIT License*\] (⭐️40)
   - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim \[*MIT License*\] (⭐️3479)
   - [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A very fast, powerful, extensible and asynchronous Neovim HTTP client written in Lua. \[*GNU GPLv3*\] (⭐️1971)
   - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions (⭐️475)
   - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching. \[*MIT License*\] (⭐️2415)
-  - [saecki/crates.nvim](https://github.com/saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies \[*MIT License*\] (⭐️1053)
-  - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp \[*MIT License*\] (⭐️2150) *Archived!*
+  - [saecki/crates.nvim](https://github.com/saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies \[*MIT License*\] (⭐️1054)
+  - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp \[*MIT License*\] (⭐️2149) *Archived!*
   - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages. \[*MIT License*\] (⭐️1838) *Archived!*
   - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim. \[*MIT License*\] (⭐️738)
   - [tjdevries/vlog.nvim](https://github.com/tjdevries/vlog.nvim) - Single file, no dependency, easy copy & paste log file to add to your neovim lua plugins \[*MIT License*\] (⭐️140)
   - [tzachar/compe-tabnine](https://github.com/tzachar/compe-tabnine) - TabNine source for hrsh7th/nvim-compe \[*Modified BSD License*\] (⭐️52) *Archived!*
-  - [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) - Interactive Repl Over Neovim \[*Modified BSD License*\] (⭐️1250)
+  - [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) - Interactive Repl Over Neovim \[*Modified BSD License*\] (⭐️1252)
   - [vigoux/treesitter-context.nvim](https://github.com/vigoux/treesitter-context.nvim) - A context.vim clone powered by treesitter. \[*Apache License 2.0*\] (⭐️17) *Archived!*
-  - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to auto close and auto rename html tag \[*MIT License*\] (⭐️2013)
-  - [windwp/windline.nvim](https://github.com/windwp/windline.nvim) - Animation statusline, floating window statusline. Use lua + luv make some wind \[*MIT License*\] (⭐️509)
+  - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to auto close and auto rename html tag \[*MIT License*\] (⭐️2015)
+  - [windwp/windline.nvim](https://github.com/windwp/windline.nvim) - Animation statusline, floating window statusline. Use lua + luv make some wind \[*MIT License*\] (⭐️510)
   - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim \[*Apache License 2.0*\] (⭐️281)
   - [ya2s/nvim-nonicons](https://github.com/ya2s/nvim-nonicons) - Icon set using nonicons for neovim plugins and settings (⭐️337)
 
 ## Nim
 
-  - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end \[*GNU AGPLv3*\] (⭐️11851)
+  - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end \[*GNU AGPLv3*\] (⭐️11865)
 
 ## PHP
 
-  - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection. \[*MIT License*\] (⭐️4584)
+  - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection. \[*MIT License*\] (⭐️4588)
   - [nekromoff/kde-migrant](https://github.com/nekromoff/kde-migrant) - KDE Migrant allows you to migrate your existing KDE/Plasma/apps configuration to a new computer. Good when changing computers or cloning one user configuration for other users. \[*MIT License*\] (⭐️64)
-  - [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software. \[*GNU GPLv3*\] (⭐️2902)
+  - [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software. \[*GNU GPLv3*\] (⭐️2903)
   - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener \[*MIT License*\] (⭐️4479)
 
 ## PowerShell
@@ -264,17 +264,17 @@ Total starred repositories: `416`
 ## Python
 
   - [AlfredoSequeida/fvid](https://github.com/AlfredoSequeida/fvid) - fvid is a project that aims to encode any file as a video using 1-bit color images to survive compression algorithms for data retrieval. \[*MIT License*\] (⭐️359)
-  - [alstr/todo-to-issue-action](https://github.com/alstr/todo-to-issue-action) - Action that converts TODO comments to GitHub issues on push. \[*MIT License*\] (⭐️776)
-  - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. \[*GNU GPLv3*\] (⭐️67178)
-  - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine \[*MIT License*\] (⭐️11129)
-  - [codota/tabnine-vim](https://github.com/codota/tabnine-vim) - Vim client for TabNine. https://vimawesome.com/plugin/tabnine-vim \[*GNU GPLv3*\] (⭐️673)
+  - [alstr/todo-to-issue-action](https://github.com/alstr/todo-to-issue-action) - Action that converts TODO comments to GitHub issues on push. \[*MIT License*\] (⭐️777)
+  - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. \[*GNU GPLv3*\] (⭐️67185)
+  - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine \[*MIT License*\] (⭐️11134)
+  - [codota/tabnine-vim](https://github.com/codota/tabnine-vim) - Vim client for TabNine. https://vimawesome.com/plugin/tabnine-vim \[*GNU GPLv3*\] (⭐️672)
   - [ConnorJL/GPT2](https://github.com/ConnorJL/GPT2) - An implementation of training for GPT2, supports TPUs \[*MIT License*\] (⭐️1416)
   - [critiqjo/lldb.nvim](https://github.com/critiqjo/lldb.nvim) - This repository was moved to (⭐️27)
   - [DavidBuchanan314/ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - Craft PNG files that appear completely different in Apple software [NOW PATCHED] \[*MIT License*\] (⭐️1063)
   - [dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim) - Interact with Jupyter from NeoVim. \[*GNU GPLv3*\] (⭐️1200)
   - [deep5050/HighlightedCS](https://github.com/deep5050/HighlightedCS) - Popular computer science books (PDF) with highlighting :) add yours now \[*The Unlicense*\] (⭐️115)
-  - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc. \[*MIT License*\] (⭐️3415)
-  - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution \[*Apache License 2.0*\] (⭐️7405)
+  - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc. \[*MIT License*\] (⭐️3414)
+  - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution \[*Apache License 2.0*\] (⭐️7407)
   - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. (⭐️28003)
   - [google/vroom](https://github.com/google/vroom) - Launch vim tests \[*Apache License 2.0*\] (⭐️274)
   - [hyiltiz/vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's plugins, generate awesome statistics and optimize (n)vim startup time \[*GNU GPLv3*\] (⭐️628)
@@ -283,7 +283,7 @@ Total starred repositories: `416`
   - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text (⭐️2835)
   - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku \[*Apache License 2.0*\] (⭐️6355)
   - [KristoforMaynard/music-tag](https://github.com/KristoforMaynard/music-tag) - Simple interface to edit audio file metadata \[*MIT License*\] (⭐️137)
-  - [loganmarchione/homelab-svg-assets](https://github.com/loganmarchione/homelab-svg-assets) - Full-color SVG icons of homelab-related software, products, and brands \[*MIT License*\] (⭐️1144)
+  - [loganmarchione/homelab-svg-assets](https://github.com/loganmarchione/homelab-svg-assets) - Full-color SVG icons of homelab-related software, products, and brands \[*MIT License*\] (⭐️1143)
   - [lorentzenman/sheepl](https://github.com/lorentzenman/sheepl) - Sheepl : Creating realistic user behaviour for supporting tradecraft development within lab environments \[*MIT License*\] (⭐️399)
   - [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch \[*MIT License*\] (⭐️5631)
   - [mahostar/EasyShield_v2.5](https://github.com/mahostar/EasyShield_v2.5) - EasyShield Anti Spoofing AI Model for edge devices (State-of-the-art) performance (Open Source) Deep Learning Model \[*MIT License*\] (⭐️53)
@@ -292,18 +292,18 @@ Total starred repositories: `416`
   - [michaelb/memoization-python](https://github.com/michaelb/memoization-python) - Use a python quirk to memoize functions easily (⭐️1)
   - [michaelb/michaelb](https://github.com/michaelb/michaelb) -  (⭐️6)
   - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. \[*GNU GPLv3*\] (⭐️3753)
-  - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework. (⭐️18153)
+  - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework. (⭐️18156)
   - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code \[*MIT License*\] (⭐️3133)
-  - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats \[*MIT License*\] (⭐️2206)
-  - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model \[*MIT License*\] (⭐️3670)
+  - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats \[*MIT License*\] (⭐️2207)
+  - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model \[*MIT License*\] (⭐️3671)
   - [paramiko/paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library. \[*GNU LGPLv2.1*\] (⭐️9597)
-  - [Prayag2/konsave](https://github.com/Prayag2/konsave) - A command line program written in Python to let you backup your dotfiles and switch to other ones in an instant. Works out-of-the box on KDE Plasma! \[*GNU GPLv3*\] (⭐️1301)
-  - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos. \[*The Unlicense*\] (⭐️13014)
-  - [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS \[*GNU GPLv2*\] (⭐️1615)
-  - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱 \[*Do What The F*ck You Want To Public License*\] (⭐️36809)
-  - [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader \[*GNU GPLv2*\] (⭐️3851)
+  - [Prayag2/konsave](https://github.com/Prayag2/konsave) - A command line program written in Python to let you backup your dotfiles and switch to other ones in an instant. Works out-of-the box on KDE Plasma! \[*GNU GPLv3*\] (⭐️1303)
+  - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos. \[*The Unlicense*\] (⭐️13018)
+  - [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS \[*GNU GPLv2*\] (⭐️1616)
+  - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱 \[*Do What The F*ck You Want To Public License*\] (⭐️36814)
+  - [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader \[*GNU GPLv2*\] (⭐️3852)
   - [scottvr/wtffmpeg](https://github.com/scottvr/wtffmpeg) - a toy that has a local llm spit out ffmpeg commands from natural language prompts on the command-line \[*MIT License*\] (⭐️322)
-  - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app \[*GNU AGPLv3*\] (⭐️6218)
+  - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app \[*GNU AGPLv3*\] (⭐️6222)
   - [spikedoanz/tensor-tic-tac-toe](https://github.com/spikedoanz/tensor-tic-tac-toe) - parallelized hyperdimensional tictactoe (⭐️125)
   - [Stypox/song-downloader](https://github.com/Stypox/song-downloader) - Downloads songs and playlists from Youtube as MP3s and deduces their artist, name... (⭐️17)
   - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI's Codex for intelligent README creation. \[*MIT License*\] (⭐️406)
@@ -311,7 +311,7 @@ Total starred repositories: `416`
   - [traxys/micro-tiling](https://github.com/traxys/micro-tiling) - Microservice tiling generator, using intuitive protocols \[*GNU GPLv3*\] (⭐️4)
   - [uqfoundation/klepto](https://github.com/uqfoundation/klepto) - persistent caching to memory, disk, or database (⭐️278)
   - [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal \[*The Unlicense*\] (⭐️942)
-  - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader \[*The Unlicense*\] (⭐️136669)
+  - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader \[*The Unlicense*\] (⭐️136773)
 
 ## RenderScript
 
@@ -320,7 +320,7 @@ Total starred repositories: `416`
 ## Ruby
 
   - [AndrewRadev/vimrunner](https://github.com/AndrewRadev/vimrunner) - Control a vim instance through ruby code \[*MIT License*\] (⭐️241)
-  - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. (⭐️11391)
+  - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. (⭐️11390)
   - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion (⭐️4479)
   - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages (⭐️14269)
   - [mame/radiation-hardened-quine](https://github.com/mame/radiation-hardened-quine) - A robust quine program that works even after any one character is deleted. (⭐️696)
@@ -328,52 +328,52 @@ Total starred repositories: `416`
 ## Rust
 
   - [13unk0wn/Feather](https://github.com/13unk0wn/Feather) - Feather is a lightweight, efficient YouTube Music TUI built with Rust. It provides a minimalistic, ad-free music streaming experience directly from YouTube using yt-dlp and mpv, with a focus on low memory usage and fast playback. \[*MIT License*\] (⭐️211)
-  - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device. \[*MIT License*\] (⭐️2442)
+  - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device. \[*MIT License*\] (⭐️2443)
   - [ajour/ajour](https://github.com/ajour/ajour) - A World of Warcraft addon manager written in Rust. \[*GNU GPLv3*\] (⭐️1013) *Archived!*
-  - [al8n/stretto](https://github.com/al8n/stretto) - Stretto is a Rust implementation for Dgraph's ristretto (https://github.com/dgraph-io/ristretto). A high performance memory-bound Rust cache. \[*Apache License 2.0*\] (⭐️425)
+  - [al8n/stretto](https://github.com/al8n/stretto) - Stretto is a Rust implementation for Dgraph's ristretto (https://github.com/dgraph-io/ristretto). A high performance memory-bound Rust cache. \[*Apache License 2.0*\] (⭐️426)
   - [arskiy/chess](https://github.com/arskiy/chess) - Chess GUI using rust-sdl2 and chess AI using minimax. \[*zlib License*\] (⭐️7)
-  - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered \[*Apache License 2.0*\] (⭐️8666)
+  - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered \[*Apache License 2.0*\] (⭐️8673)
   - [baoyachi/shadow-rs](https://github.com/baoyachi/shadow-rs) - A build-time information stored in your rust project.(binary,lib,cdylib,dylib,wasm) \[*MIT License*\] (⭐️640)
   - [ben0x539/totally-safe-transmute](https://github.com/ben0x539/totally-safe-transmute) -  (⭐️260)
-  - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust \[*Apache License 2.0*\] (⭐️5368)
-  - [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French. (⭐️1737)
+  - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust \[*Apache License 2.0*\] (⭐️5370)
+  - [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French. (⭐️1738)
   - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers (⭐️9457)
   - [char-ptr/bsod-rs](https://github.com/char-ptr/bsod-rs) - The safest library on the block. Calling the bsod function will cause a blue screen of death. \[*The Unlicense*\] (⭐️130)
   - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate. \[*Apache License 2.0*\] (⭐️1497)
   - [crev-dev/cargo-crev](https://github.com/crev-dev/cargo-crev) - A cryptographically verifiable code review system for the cargo (Rust) package manager. \[*Apache License 2.0*\] (⭐️2247)
-  - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output \[*MIT License*\] (⭐️28247)
-  - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs \[*GNU AGPLv3*\] (⭐️51384)
+  - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output \[*MIT License*\] (⭐️28248)
+  - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs \[*GNU AGPLv3*\] (⭐️51409)
   - [danielementary/nym](https://github.com/danielementary/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials. (⭐️1)
-  - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust \[*Apache License 2.0*\] (⭐️13799)
-  - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. \[*Apache License 2.0*\] (⭐️32291)
+  - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust \[*Apache License 2.0*\] (⭐️13800)
+  - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. \[*Apache License 2.0*\] (⭐️32318)
   - [dranikpg/simple-rays](https://github.com/dranikpg/simple-rays) - Simple ray tracer written in Rust (⭐️195)
-  - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces. \[*GNU AGPLv3*\] (⭐️4018)
+  - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces. \[*GNU AGPLv3*\] (⭐️4019)
   - [dzamkov/deep-learning-test](https://github.com/dzamkov/deep-learning-test) - Messing around with deep learning (⭐️11)
-  - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. \[*Apache License 2.0*\] (⭐️7824)
+  - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. \[*Apache License 2.0*\] (⭐️7825)
   - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native \[*Apache License 2.0*\] (⭐️27289)
   - [ErichDonGubler/new-rust-project](https://github.com/ErichDonGubler/new-rust-project) - Erich's preferred starter kit for new Github projects using Rust. \[*Mozilla Public License 2.0*\] (⭐️6)
   - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim. (⭐️630)
-  - [evcxr/evcxr](https://github.com/evcxr/evcxr) -  (⭐️6267)
-  - [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need \[*Apache License 2.0*\] (⭐️2098)
+  - [evcxr/evcxr](https://github.com/evcxr/evcxr) -  (⭐️6270)
+  - [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need \[*Apache License 2.0*\] (⭐️2104)
   - [faokunega/pg-embed](https://github.com/faokunega/pg-embed) - Run a Postgresql database locally on Linux, MacOS or Windows as part of another Rust application or test. \[*MIT License*\] (⭐️151)
-  - [fast/mea](https://github.com/fast/mea) - Mea provides async primitives and combinators that are runtime agnostic. \[*Apache License 2.0*\] (⭐️91)
+  - [fast/mea](https://github.com/fast/mea) - Mea provides async primitives and combinators that are runtime agnostic. \[*Apache License 2.0*\] (⭐️100)
   - [fedemagnani/metaglio](https://github.com/fedemagnani/metaglio) - A minimalistic network metal I/O library in Rust for macOS (⭐️1)
-  - [galileo-map/galileo](https://github.com/galileo-map/galileo) - General purpose cross-platform GIS-rendering library written in Rust \[*Apache License 2.0*\] (⭐️552)
+  - [galileo-map/galileo](https://github.com/galileo-map/galileo) - General purpose cross-platform GIS-rendering library written in Rust \[*Apache License 2.0*\] (⭐️553)
   - [h33p/cglue](https://github.com/h33p/cglue) - Rust ABI safe code generator \[*MIT License*\] (⭐️189)
-  - [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel \[*MIT License*\] (⭐️1360)
+  - [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel \[*MIT License*\] (⭐️1422)
   - [hsa00000/Urocissa](https://github.com/hsa00000/Urocissa) - Urocissa is a self-hosted photos gallery designed to serve massive collections, capable of handling millions of images and videos. It is built using Rust and Vue. \[*MIT License*\] (⭐️210)
-  - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm \[*MIT License*\] (⭐️28359)
+  - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm \[*MIT License*\] (⭐️28361)
   - [iced-rs/iced_audio](https://github.com/iced-rs/iced_audio) - An extension to the Iced GUI library with useful widgets for audio applications \[*MIT License*\] (⭐️207)
   - [iced-rs/iced_aw](https://github.com/iced-rs/iced_aw) - Additional widgets for the Iced GUI library \[*MIT License*\] (⭐️586)
-  - [ikatson/rqbit](https://github.com/ikatson/rqbit) - A bittorrent client in Rust (⭐️1424)
+  - [ikatson/rqbit](https://github.com/ikatson/rqbit) - A bittorrent client in Rust (⭐️1426)
   - [inthehack/noshell](https://github.com/inthehack/noshell) - noshell, a no_std argument parser and a shell for constrained systems. \[*Apache License 2.0*\] (⭐️28)
   - [Jannchie/shields.rs](https://github.com/Jannchie/shields.rs) - A high-performance badge rendering engine written in Rust. As same as shields.io. \[*MIT License*\] (⭐️19)
-  - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦 \[*MIT License*\] (⭐️9525)
+  - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦 \[*MIT License*\] (⭐️9528)
   - [kellnr/kellnr](https://github.com/kellnr/kellnr) - The registry for Rust crates \[*MIT License*\] (⭐️853)
   - [KillTheMule/nvim-rs](https://github.com/KillTheMule/nvim-rs) - A rust library for neovim clients  \[*Apache License 2.0*\] (⭐️260)
-  - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust \[*Apache License 2.0*\] (⭐️37676)
+  - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust \[*Apache License 2.0*\] (⭐️37680)
   - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) - build and install C-compatible libraries \[*MIT License*\] (⭐️526)
-  - [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit) - A CLI tool that automatically writes commit messages for you. \[*MIT License*\] (⭐️1223)
+  - [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit) - A CLI tool that automatically writes commit messages for you. \[*MIT License*\] (⭐️1222)
   - [Mange/mpris-rs](https://github.com/Mange/mpris-rs) - Idiomatic MPRIS D-Bus interface library for Rust \[*Apache License 2.0*\] (⭐️79)
   - [margual56/radio-cli](https://github.com/margual56/radio-cli) - A simple radio CLI written in rust \[*GNU GPLv2*\] (⭐️141)
   - [mattsse/cargo-memex](https://github.com/mattsse/cargo-memex) - compile rust code into memes \[*Apache License 2.0*\] (⭐️257)
@@ -384,32 +384,32 @@ Total starred repositories: `416`
   - [mightyiam/michie](https://github.com/mightyiam/michie) - A Rust attribute macro that adds memoization to a function (rhymes with Mickey) (⭐️21)
   - [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust \[*Apache License 2.0*\] (⭐️935)
   - [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models. (⭐️1477)
-  - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper \[*GNU GPLv3*\] (⭐️7664)
+  - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper \[*GNU GPLv3*\] (⭐️7665)
   - [mozilla/rust-code-analysis](https://github.com/mozilla/rust-code-analysis) - Library to analyze and collect metrics on source code (⭐️362)
   - [nick42d/youtui](https://github.com/nick42d/youtui) - TUI and API for YouTube Music written in Rust \[*MIT License*\] (⭐️113)
   - [nicolas-van/rust-cross-compile-example](https://github.com/nicolas-van/rust-cross-compile-example) - A working example of multi targets compilation for Rust using Github Actions. Supports Windows, MacOSX, x86_64, ARM and Raspberry PI Linux. \[*MIT License*\] (⭐️64)
   - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim \[*MIT License*\] (⭐️1072)
   - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust. (⭐️3453)
   - [nvzqz/impls](https://github.com/nvzqz/impls) - A Rust macro to determine if a type implements a logical trait expression \[*Apache License 2.0*\] (⭐️261)
-  - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool \[*MIT License*\] (⭐️11368)
+  - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool \[*MIT License*\] (⭐️11370)
   - [omarmhaimdat/pepe](https://github.com/omarmhaimdat/pepe) - HTTP Load Generator \[*MIT License*\] (⭐️91)
-  - [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust performance debug toolkit. Live profiling for allocations, timings, threads, and channel/stream data flows. \[*MIT License*\] (⭐️1120)
-  - [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums \[*MIT License*\] (⭐️2206)
+  - [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust performance debug toolkit. Live profiling for allocations, timings, threads, and channel/stream data flows. \[*MIT License*\] (⭐️1123)
+  - [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums \[*MIT License*\] (⭐️2207)
   - [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts. \[*GNU GPLv2*\] (⭐️164)
   - [polyfloyd/rust-id3](https://github.com/polyfloyd/rust-id3) - Moved to https://codeberg.org/polyfloyd/rust-id3 \[*MIT License*\] (⭐️261) *Archived!*
   - [Property404/goto-label-rs](https://github.com/Property404/goto-label-rs) - "goto" implementation for Rust (⭐️101)
   - [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust. \[*Apache License 2.0*\] (⭐️1278) *Archived!*
-  - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust \[*Mozilla Public License 2.0*\] (⭐️20703)
-  - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. \[*Apache License 2.0*\] (⭐️108164)
-  - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs \[*Apache License 2.0*\] (⭐️15732)
+  - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust \[*Mozilla Public License 2.0*\] (⭐️20712)
+  - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. \[*Apache License 2.0*\] (⭐️108181)
+  - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs \[*Apache License 2.0*\] (⭐️15736)
   - [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform (⭐️634)
   - [rust-secure-code/cargo-supply-chain](https://github.com/rust-secure-code/cargo-supply-chain) - Gather author, contributor and publisher data on crates in your dependency graph. \[*Apache License 2.0*\] (⭐️344)
-  - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️54048)
+  - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. \[*Creative Commons Zero v1.0 Universal*\] (⭐️54059)
   - [rustic-music-player/rustic](https://github.com/rustic-music-player/rustic) - A self hosted music server with support for many streaming services \[*GNU GPLv3*\] (⭐️23)
   - [RustyNova016/musicbrainz_rs](https://github.com/RustyNova016/musicbrainz_rs) - A wrapper around the musicbrainz API \[*MIT License*\] (⭐️70)
   - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds \[*GNU GPLv3*\] (⭐️1162)
   - [SeaDve/mpris-server](https://github.com/SeaDve/mpris-server) - Implement MPRIS D-Bus interface in your application \[*Mozilla Public License 2.0*\] (⭐️31)
-  - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust \[*Apache License 2.0*\] (⭐️9055)
+  - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust \[*Apache License 2.0*\] (⭐️9062)
   - [Serial-ATA/lofty-rs](https://github.com/Serial-ATA/lofty-rs) - Audio metadata library \[*Apache License 2.0*\] (⭐️255)
   - [smolck/nvim-rpc-plugin-example](https://github.com/smolck/nvim-rpc-plugin-example) - Quick colorscheme changing example \[*MIT License*\] (⭐️7)
   - [srishanbhattarai/neovim-spotify](https://github.com/srishanbhattarai/neovim-spotify) - Neovim plugin to control Spotify and Apple Music  on macOS \[*MIT License*\] (⭐️72) *Archived!*
@@ -417,18 +417,18 @@ Total starred repositories: `416`
   - [tdnguyen6/flexible-fn-rs](https://github.com/tdnguyen6/flexible-fn-rs) - Demonstration of flexible function calls in Rust with function overloading, named arguments and optional arguments \[*Apache License 2.0*\] (⭐️80)
   - [the-lean-crate/criner](https://github.com/the-lean-crate/criner) - A tool to mine crates.io and produce static websites \[*MIT License*\] (⭐️137)
   - [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options) - Most feature-complete Linux GUI power management solution. \[*MIT License*\] (⭐️330)
-  - [theseus-rs/postgresql-embedded](https://github.com/theseus-rs/postgresql-embedded) - Embed PostgreSQL database \[*Apache License 2.0*\] (⭐️270)
+  - [theseus-rs/postgresql-embedded](https://github.com/theseus-rs/postgresql-embedded) - Embed PostgreSQL database \[*Apache License 2.0*\] (⭐️271)
   - [tjdevries/rofl.nvim](https://github.com/tjdevries/rofl.nvim) - Rust On the FLY completion for neovim (⭐️64)
-  - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust! \[*MIT License*\] (⭐️4311)
+  - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust! \[*MIT License*\] (⭐️4314)
   - [tramhao/termusic](https://github.com/tramhao/termusic) - Music Player TUI written in Rust \[*GNU GPLv3*\] (⭐️1653)
   - [traxys/rustc_codegen_lua](https://github.com/traxys/rustc_codegen_lua) - Rust codegen backend for lua \[*Apache License 2.0*\] (⭐️5)
   - [tree-sitter/rust-tree-sitter](https://github.com/tree-sitter/rust-tree-sitter) - Rust bindings to Tree-sitter \[*MIT License*\] (⭐️34) *Archived!*
-  - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools \[*MIT License*\] (⭐️22845)
+  - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools \[*MIT License*\] (⭐️22852)
   - [tsirysndr/music-player](https://github.com/tsirysndr/music-player) -  An extensible music server written in Rust 🚀🎵✨ \[*MIT License*\] (⭐️485)
   - [WildPixelGames/gdt-cpus](https://github.com/WildPixelGames/gdt-cpus) - Game Developer's Toolkit for CPU Management \[*Apache License 2.0*\] (⭐️103)
-  - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code. \[*MIT License*\] (⭐️2947)
+  - [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code. \[*MIT License*\] (⭐️2948)
   - [wrsturgeon/inator](https://github.com/wrsturgeon/inator) - An evil parsing library. \[*Mozilla Public License 2.0*\] (⭐️54)
-  - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects \[*Apache License 2.0*\] (⭐️2834)
+  - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects \[*Apache License 2.0*\] (⭐️2835)
   - [zahidkhawaja/rusty](https://github.com/zahidkhawaja/rusty) - AI-powered CLI tool to help you remember bash commands. \[*MIT License*\] (⭐️333)
   - [zama-ai/tfhe-rs](https://github.com/zama-ai/tfhe-rs) - TFHE-rs: A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data. (⭐️1526)
   - [zannabianca1997/types-fuckery](https://github.com/zannabianca1997/types-fuckery) -  \[*MIT License*\] (⭐️29)
@@ -443,7 +443,7 @@ Total starred repositories: `416`
   - [binpash/pash](https://github.com/binpash/pash) - PaSh: Light-touch Data-Parallel Shell Processing \[*MIT License*\] (⭐️586)
   - [bugswriter/tuxi](https://github.com/bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly. \[*GNU GPLv3*\] (⭐️1337) *Archived!*
   - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions \[*MIT License*\] (⭐️10810)
-  - [Frogging-Family/wine-tkg-git](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds (⭐️1077)
+  - [Frogging-Family/wine-tkg-git](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds (⭐️1078)
   - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro. \[*GNU GPLv3*\] (⭐️2200)
   - [ghostlexly/gpu-video-wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) - Use your GPU for rendering low CPU usage video animated wallpaper. \[*MIT License*\] (⭐️175)
   - [hexive/sunpaper](https://github.com/hexive/sunpaper) - Dynamic wallpaper changes based on the sun. \[*Apache License 2.0*\] (⭐️218)
@@ -451,92 +451,91 @@ Total starred repositories: `416`
   - [leap0x7b/shutthefetchup](https://github.com/leap0x7b/shutthefetchup) - A minimal fetch tool to tell all users who posts those annoying fetch BS on r/linux to shut the fuck up. \[*Do What The F*ck You Want To Public License*\] (⭐️74)
   - [LinSoftWin/Photoshop-CC2022-Linux](https://github.com/LinSoftWin/Photoshop-CC2022-Linux) - Installer from Photoshop CC 2021 to 2022 on linux with a GUI \[*Modified BSD License*\] (⭐️1111)
   - [MatthiasCoppens/pulseaudio-virtualmic](https://github.com/MatthiasCoppens/pulseaudio-virtualmic) - Use any offline or online media file or stream as a PulseAudio source \[*GNU GPLv3*\] (⭐️176) *Archived!*
-  - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed \[*GNU GPLv3*\] (⭐️1797)
+  - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed \[*GNU GPLv3*\] (⭐️1798)
   - [nelsonmestevao/dotfiles](https://github.com/nelsonmestevao/dotfiles) - :penguin: Configuration files (⭐️106)
-  - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. \[*MIT License*\] (⭐️183054)
+  - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. \[*MIT License*\] (⭐️183060)
   - [paladini/ghost-on-github-pages](https://github.com/paladini/ghost-on-github-pages) - Ghost on Github Pages. Build and deploy Ghost for free in a few minutes. \[*MIT License*\] (⭐️492)
-  - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (⭐️100679)
-  - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements (⭐️54522)
-  - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. \[*Creative Commons Zero v1.0 Universal*\] (⭐️19585)
-  - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme \[*MIT License*\] (⭐️51773)
+  - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (⭐️100696)
+  - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements (⭐️54538)
+  - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. \[*Creative Commons Zero v1.0 Universal*\] (⭐️19590)
+  - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme \[*MIT License*\] (⭐️51784)
   - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh \[*MIT License*\] (⭐️1063)
   - [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching  \[*MIT License*\] (⭐️1047)
   - [tymm/zsh-directory-history](https://github.com/tymm/zsh-directory-history) - Giving you a history which is sensitive to the directory you are currently in (⭐️159)
   - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet \[*MIT License*\] (⭐️2574)
-  - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh. (⭐️7551)
+  - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh. (⭐️7552)
 
 ## Svelte
 
-  - [anhostfr/compress.lol](https://github.com/anhostfr/compress.lol) - Compress videos in your browser to fit Discord limitations and more. - An alternative to 8mb.video \[*Apache License 2.0*\] (⭐️245)
+  - [anhostfr/compress.lol](https://github.com/anhostfr/compress.lol) - Compress videos in your browser to fit Discord limitations and more. - An alternative to 8mb.video \[*Apache License 2.0*\] (⭐️246)
 
 ## Tree-sitter Query
 
-  - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer \[*Apache License 2.0*\] (⭐️12871)
-  - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) -  \[*Apache License 2.0*\] (⭐️2589)
+  - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer \[*Apache License 2.0*\] (⭐️12877)
+  - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) -  \[*Apache License 2.0*\] (⭐️2590)
   - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean* \[*Apache License 2.0*\] (⭐️564)
 
 ## TypeScript
 
   - [1hanzla100/developer-portfolio](https://github.com/1hanzla100/developer-portfolio) - Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer. \[*Apache License 2.0*\] (⭐️788)
   - [actions-rs/tarpaulin](https://github.com/actions-rs/tarpaulin) - 📈 GitHub Action for code coverage reporting with tarpaulin  \[*MIT License*\] (⭐️92) *Archived!*
-  - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. \[*GNU AGPLv3*\] (⭐️1270)
+  - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. \[*GNU AGPLv3*\] (⭐️1276)
   - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr \[*GNU AGPLv3*\] (⭐️2047)
   - [anandbaburajan/samay](https://github.com/anandbaburajan/samay) - Find a time which works for everyone \[*MIT License*\] (⭐️337)
   - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp. \[*MIT License*\] (⭐️2419)
   - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together. \[*MIT License*\] (⭐️818)
   - [ekzhang/composing.studio](https://github.com/ekzhang/composing.studio) - Collaborative music composition for everyone. \[*MIT License*\] (⭐️538)
-  - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. (⭐️9795)
-  - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API \[*MIT License*\] (⭐️3405)
-  - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. \[*GNU AGPLv3*\] (⭐️85306)
-  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️344597)
+  - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. (⭐️9799)
+  - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API \[*MIT License*\] (⭐️3406)
+  - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. \[*GNU AGPLv3*\] (⭐️85377)
+  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (⭐️344653)
   - [lucax88x/nvim-awesome](https://github.com/lucax88x/nvim-awesome) - A showcase of nvim plugins \[*MIT License*\] (⭐️56)
-  - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers \[*MIT License*\] (⭐️3219)
-  - [musable/musable](https://github.com/musable/musable) -  (⭐️109)
-  - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you \[*GNU AGPLv3*\] (⭐️16322)
-  - [NyaomiDEV/Sunamu](https://github.com/NyaomiDEV/Sunamu) - Show your currently playing song in a stylish way! \[*Mozilla Public License 2.0*\] (⭐️415) *Archived!*
+  - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers \[*MIT License*\] (⭐️3221)
+  - [musable/musable](https://github.com/musable/musable) -  (⭐️111)
+  - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you \[*GNU AGPLv3*\] (⭐️16324)
   - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers! (⭐️1358)
-  - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ \[*GNU GPLv3*\] (⭐️9063)
-  - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. \[*GNU AGPLv3*\] (⭐️9762)
+  - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ \[*GNU GPLv3*\] (⭐️9070)
+  - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. \[*GNU AGPLv3*\] (⭐️9774)
   - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI \[*GNU AGPLv3*\] (⭐️647)
   - [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center) - A tool to help you control performance, energy, fan and comfort settings on TUXEDO laptops. \[*GNU GPLv3*\] (⭐️586)
-  - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README \[*MIT License*\] (⭐️3175)
-  - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform (⭐️1938)
+  - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README \[*MIT License*\] (⭐️3177)
+  - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform (⭐️1937)
 
 ## Unknown
 
   - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim (⭐️3573)
-  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️260705)
-  - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books (⭐️21889)
+  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️260862)
+  - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books (⭐️21895)
   - [CharlotteCross1998/linuwux](https://github.com/CharlotteCross1998/linuwux) - A collection of uwu images of distros. (⭐️566)
   - [git-things-done/template](https://github.com/git-things-done/template) - A flexible, programmable and extensible “Getting Things Done” system built on GitHub Actions, GitHub Issues, GitHub Pages and GitHub Flat Data. (⭐️74)
   - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. (⭐️6831)
-  - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (⭐️32607)
-  - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in \[*Creative Commons Zero v1.0 Universal*\] (⭐️26794)
+  - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (⭐️32609)
+  - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in \[*Creative Commons Zero v1.0 Universal*\] (⭐️26797)
   - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern. \[*MIT License*\] (⭐️14198)
-  - [mcinglis/c-style](https://github.com/mcinglis/c-style) - My favorite C programming practices. (⭐️2133)
+  - [mcinglis/c-style](https://github.com/mcinglis/c-style) - My favorite C programming practices. (⭐️2134)
   - [mgreiler/code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer. \[*MIT License*\] (⭐️1005)
-  - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture. (⭐️10477)
+  - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture. (⭐️10483)
   - [michaelb/do-nothing.vim](https://github.com/michaelb/do-nothing.vim) - A vim plugin that does nothing. Because why not \[*MIT License*\] (⭐️120)
   - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers \[*Creative Commons Zero v1.0 Universal*\] (⭐️9043)
   - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim (⭐️5974) *Archived!*
   - [nvim-lua/wishlist](https://github.com/nvim-lua/wishlist) - A public catalogue of Lua plugins Neovim users would like to see exist \[*MIT License*\] (⭐️249)
   - [ploopyco/knob](https://github.com/ploopyco/knob) - An open-source, high-resolution scrolling Knob, powered by QMK. \[*CERN OHL v2 Strongly Reciprocal*\] (⭐️369)
-  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️418935)
+  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics \[*Creative Commons Zero v1.0 Universal*\] (⭐️419190)
   - [sketchbuch/review-tuxedo-pulse-15-gen1](https://github.com/sketchbuch/review-tuxedo-pulse-15-gen1) - A review of the Tuxedo Pulse 15 (Gen 1). (⭐️15)
-  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. \[*MIT License*\] (⭐️196142)
+  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. \[*MIT License*\] (⭐️196268)
   - [UgurcanAkkok/AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of "Are We *thing* Yet" for Rust \[*Creative Commons Zero v1.0 Universal*\] (⭐️615)
 
 ## Vim Script
 
-  - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support \[*BSD 2-Clause "Simplified" License*\] (⭐️13921)
+  - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support \[*BSD 2-Clause "Simplified" License*\] (⭐️13922)
   - [erietz/vim-terminator](https://github.com/erietz/vim-terminator) - :dagger: Run your code in an output buffer or a vim terminal conveniently \[*GNU GPLv3*\] (⭐️118)
   - [flwyd/vim-conjoin](https://github.com/flwyd/vim-conjoin) - Remove continuation characters when joining lines in vim \[*Apache License 2.0*\] (⭐️23)
   - [GideonWolfe/vim.reaper](https://github.com/GideonWolfe/vim.reaper) - 💀 A Hackable, Fully Featured, Rice Friendly Neovim Configuration (⭐️299)
-  - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot (⭐️11047)
+  - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot (⭐️11052)
   - [glacambre/ileum](https://github.com/glacambre/ileum) - The thing that connects your pipes to your colon \[*MIT License*\] (⭐️12)
   - [Jorenar/vim-MvVis](https://github.com/Jorenar/vim-MvVis) - Move visually selected text \[*MIT License*\] (⭐️36)
   - [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs) \[*MIT License*\] (⭐️2016)
-  - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager \[*MIT License*\] (⭐️35410)
+  - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager \[*MIT License*\] (⭐️35413)
   - [khzaw/vim-conceal](https://github.com/khzaw/vim-conceal) - A vim plugin making use of vim's conceal feature for additional visual eyecandy. (⭐️68)
   - [kitagry/asyncomplete-tabnine.vim](https://github.com/kitagry/asyncomplete-tabnine.vim) - Experimental plugin for asyncomplete.vim and tabnine (⭐️13) *Archived!*
   - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup \[*MIT License*\] (⭐️1978)
@@ -544,12 +543,12 @@ Total starred repositories: `416`
   - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim. \[*MIT License*\] (⭐️5370)
   - [michaelb/vim-tips](https://github.com/michaelb/vim-tips) - Short plugin to display tips at startup \[*MIT License*\] (⭐️26)
   - [ncm2/float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window \[*MIT License*\] (⭐️238)
-  - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (⭐️94629)
+  - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (⭐️94647)
   - [ojroques/vim-scrollstatus](https://github.com/ojroques/vim-scrollstatus) - A Vim plugin to display a scrollbar in the statusline \[*BSD 2-Clause "Simplified" License*\] (⭐️79)
   - [pechorin/any-jump.vim](https://github.com/pechorin/any-jump.vim) - Jump to any definition and references 👁 IDE madness without overhead 🚀 (⭐️1124)
-  - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim. \[*Do What The F*ck You Want To Public License*\] (⭐️20021)
+  - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim. \[*Do What The F*ck You Want To Public License*\] (⭐️20024)
   - [preservim/vim-wheel](https://github.com/preservim/vim-wheel) - Screen-anchored cursor movement for Vim (⭐️80)
-  - [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim. (⭐️1113)
+  - [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim. (⭐️1114)
   - [RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns) (⭐️970) *Archived!*
   - [sillybun/vim-repl](https://github.com/sillybun/vim-repl) - Best REPL environment for Vim \[*GNU GPLv2*\] (⭐️451)
   - [sirosen/vim-rockstar](https://github.com/sirosen/vim-rockstar) - Syntax highlighting for the Rockstar programming language \[*MIT License*\] (⭐️6)
@@ -561,5 +560,5 @@ Total starred repositories: `416`
 
 ## Vue
 
-  - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server. \[*Apache License 2.0*\] (⭐️10859)
+  - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server. \[*Apache License 2.0*\] (⭐️10865)
 
